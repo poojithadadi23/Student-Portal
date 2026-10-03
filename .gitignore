@@ -1,0 +1,16 @@
+env/
+.venv/
+venv/
+
+.env
+
+db.sqlite3
+
+__pycache__/
+*.pyc
+
+chroma_db/
+
+.DS_Store
+
+media/documents/
